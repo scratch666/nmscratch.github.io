@@ -1,20 +1,20 @@
-title: 纳米工作室
+title: scratch那些事儿
 subtitle: 小站
 description: 欢迎来到我们的工作室~
 # 头像里面的标题
-avatarTitle: 纳米
+avatarTitle: smile
 # 头像里面的描述
 avatarDesc: 分享知识
-url: "http://nmscratch.github.io"
+url: "http://scratch666.github.io"
 
 comment:
     # disqus: leopard
-    duoshuo: 纳米
+    duoshuo: 微笑
 
 # Social
 social:
     weibo: ----
-    github: nmscratch
+    github: scratch666
     # twitter: 
     mail: 
 
