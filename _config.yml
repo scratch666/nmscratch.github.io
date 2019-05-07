@@ -16,7 +16,7 @@ social:
     weibo: u/6895686941
     github: 
     twitter:  
-    mail: 
+    mail:  1207934597@qq.com
 
 ga:
     id: 
@@ -54,7 +54,9 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: 关于我, description: about, url: '/about'}    
+    - {title: 自由创作, description: scratch, url: '/baidu'} 
+    
     
 
 # Pagination
