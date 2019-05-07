@@ -59,7 +59,7 @@ nav:
     - {title: 所有文章, description: archive, url: 'http://www.scratch521.com/archive'}   
     - {title: 标签, description: tags, url: 'http://www.scratch521.com/tags'}      
     - {title: 关于我, description: about, url: 'http://www.scratch521.com/about'}   
-    - {title: 自由创作, description: scratch,  url: 'http://www.baidu.com'} 
+    - {title: 自由创作, description: scratch,  url: 'http://scratch.shaoerbc.org/'} 
     
     
 
