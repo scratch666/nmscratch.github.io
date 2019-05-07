@@ -5,7 +5,7 @@ description: 欢迎来到我们的工作室~
 avatarTitle: smile
 # 头像里面的描述
 avatarDesc: 分享知识
-url: "http://scratch666.github.io"
+# url: "http://scratch666.github.io"
 
 comment:
     # disqus: leopard
