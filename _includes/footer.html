@@ -20,11 +20,23 @@
           <!-- scratch -->
           <li class="navigation__item_social">
             <a href="https://kada.163.com/{{site.social.scratch}}" title="@{{site.social.scratch}} 的主页" target="_blank">
-              <i class='social fa fa-google-plus-square fa-2x'></i>
+              <i class='social fa fa-download fa-2x'></i>
               <span class="label">scratch</span>
             </a>
           </li>
           {% endif %}
+		  
+	 {% if site.social.bilibili %}
+          <!-- scratch -->
+          <li class="navigation__item_social">
+            <a href="https://space.bilibili.com/{{site.social.bilibili}}" title="@{{site.social.bilibili}} 的主页" target="_blank">
+              <i class='social fa fa-youtube-play fa-2x'></i>
+              <span class="label">bilibili</span>
+            </a>
+          </li>
+          {% endif %}
+		  
+		  
 
           {% if site.social.github %}
           <!-- Github -->
